@@ -1,0 +1,207 @@
+{
+  "exported_at": "2026-11-05T12:03:55Z",
+  "source_home": "<workspace>",
+  "repo": "r2d2-agent-workflow",
+  "files": [
+    {
+      "source": "<workspace>/telegram-bots/shared/activity.py",
+      "path": "telegram-bots/shared/activity.py",
+      "source_sha256": "08e7b6437df958ed4c17d0b6ee9304e0ee51a541298bd9be68ca99f749086f55",
+      "export_sha256": "08e7b6437df958ed4c17d0b6ee9304e0ee51a541298bd9be68ca99f749086f55"
+    },
+    {
+      "source": "<workspace>/telegram-bots/shared/agent_projects.py",
+      "path": "telegram-bots/shared/agent_projects.py",
+      "source_sha256": "129ace5bd9065e11031c3f5ca0b45d815d1edc2dbc547bbd07a8cfa39db94329",
+      "export_sha256": "a644be1569b058bca1a43499524b9bde3cfa994c266a27d03b3f78191478ab0f"
+    },
+    {
+      "source": "<workspace>/telegram-bots/shared/agent_registry.py",
+      "path": "telegram-bots/shared/agent_registry.py",
+      "source_sha256": "279bffcba0b0949445696d324b0a0324739d80acd8fc788bc88486b8b2bbbdc7",
+      "export_sha256": "a5b6cc703de8f4a9ab123628db1f5369f25eae82f879c11c3de742fab1ecbb11"
+    },
+    {
+      "source": "<workspace>/telegram-bots/shared/agents.py",
+      "path": "telegram-bots/shared/agents.py",
+      "source_sha256": "9b53037dfd5d9567343c6e0ec6dba6249fbbdb3e5e76b5a050d6137b7cd3f6a9",
+      "export_sha256": "01b5ae154adf63581dd1042f63d898769d2ba6801624c85d4ca13b33f41dffea"
+    },
+    {
+      "source": "<workspace>/telegram-bots/shared/chat_log.py",
+      "path": "telegram-bots/shared/chat_log.py",
+      "source_sha256": "7a07e0b4c47af9dc0620ff4fa4f0d22a281283efd4c97abfe3e2b25bb4eb86be",
+      "export_sha256": "7a07e0b4c47af9dc0620ff4fa4f0d22a281283efd4c97abfe3e2b25bb4eb86be"
+    },
+    {
+      "source": "<workspace>/telegram-bots/shared/desk_quota.py",
+      "path": "telegram-bots/shared/desk_quota.py",
+      "source_sha256": "46b968b98a34335c8a1f0df8c875122cefc4138c7ca16ace16fe7f87af7baf9f",
+      "export_sha256": "46b968b98a34335c8a1f0df8c875122cefc4138c7ca16ace16fe7f87af7baf9f"
+    },
+    {
+      "source": "<workspace>/telegram-bots/shared/grok_runner.py",
+      "path": "telegram-bots/shared/grok_runner.py",
+      "source_sha256": "8ee963e1d30402c6a33d46004447ce3d29ae5210e00b5a183dd453605ca9bd01",
+      "export_sha256": "8ee963e1d30402c6a33d46004447ce3d29ae5210e00b5a183dd453605ca9bd01"
+    },
+    {
+      "source": "<workspace>/telegram-bots/shared/group_chat.py",
+      "path": "telegram-bots/shared/group_chat.py",
+      "source_sha256": "8ed2cb7b6c53c58c415f0d43dc954c5eddd3b8f5c88093a02aed721203cf535d",
+      "export_sha256": "8ed2cb7b6c53c58c415f0d43dc954c5eddd3b8f5c88093a02aed721203cf535d"
+    },
+    {
+      "source": "<workspace>/telegram-bots/shared/llm_session.py",
+      "path": "telegram-bots/shared/llm_session.py",
+      "source_sha256": "1ba70a8ab8cdada9bc39ad7837cf79c3cea5aa30185d1ab0eb0c426ee8de32db",
+      "export_sha256": "1ba70a8ab8cdada9bc39ad7837cf79c3cea5aa30185d1ab0eb0c426ee8de32db"
+    },
+    {
+      "source": "<workspace>/telegram-bots/shared/memory.py",
+      "path": "telegram-bots/shared/memory.py",
+      "source_sha256": "b88dcd02748c0fa9cd322df8689f7f05eb5b2c46de30e99983734baee0d03569",
+      "export_sha256": "b88dcd02748c0fa9cd322df8689f7f05eb5b2c46de30e99983734baee0d03569"
+    },
+    {
+      "source": "<workspace>/telegram-bots/shared/model_choices.py",
+      "path": "telegram-bots/shared/model_choices.py",
+      "source_sha256": "486a459d30cfaaa6390867b7d7e916b7c642b445cbf198a1b470590e1b96bd27",
+      "export_sha256": "486a459d30cfaaa6390867b7d7e916b7c642b445cbf198a1b470590e1b96bd27"
+    },
+    {
+      "source": "<workspace>/telegram-bots/shared/project_observability.py",
+      "path": "telegram-bots/shared/project_observability.py",
+      "source_sha256": "49f572113fafdffbfea6b3336f631c46d44657adba5040a9d46d91e354d7c1e5",
+      "export_sha256": "affb1a1c821198499c1bb5fd7db4d1243f89bb51f066ea0358a1b99d6add5413"
+    },
+    {
+      "source": "<workspace>/telegram-bots/shared/prompt_guard.py",
+      "path": "telegram-bots/shared/prompt_guard.py",
+      "source_sha256": "321bde037c5d944d8e43cee343713d0666e53e11a2a160a3572a637c18ab5af7",
+      "export_sha256": "321bde037c5d944d8e43cee343713d0666e53e11a2a160a3572a637c18ab5af7"
+    },
+    {
+      "source": "<workspace>/telegram-bots/shared/run_budget.py",
+      "path": "telegram-bots/shared/run_budget.py",
+      "source_sha256": "a9e64ae8f571539208aa3409cd65a4946952766ee91b6a7ca59a8fde1f80eff4",
+      "export_sha256": "a9e64ae8f571539208aa3409cd65a4946952766ee91b6a7ca59a8fde1f80eff4"
+    },
+    {
+      "source": "<workspace>/telegram-bots/shared/secret_redaction.py",
+      "path": "telegram-bots/shared/secret_redaction.py",
+      "source_sha256": "754565db7af314541390fc586975f766c6b31b799a7930a1289dbb12f1c55454",
+      "export_sha256": "754565db7af314541390fc586975f766c6b31b799a7930a1289dbb12f1c55454"
+    },
+    {
+      "source": "<workspace>/telegram-bots/shared/session_day.py",
+      "path": "telegram-bots/shared/session_day.py",
+      "source_sha256": "b49aca0adafdfb131000bbad369f77ec82e4c4b30f233ebeb44fe186f0cf09e3",
+      "export_sha256": "b49aca0adafdfb131000bbad369f77ec82e4c4b30f233ebeb44fe186f0cf09e3"
+    },
+    {
+      "source": "<workspace>/telegram-bots/shared/session_memory.py",
+      "path": "telegram-bots/shared/session_memory.py",
+      "source_sha256": "996e19fff5c308e13404516f617d9c948a817658f11fb7e1fcc8b37a449ae0f5",
+      "export_sha256": "996e19fff5c308e13404516f617d9c948a817658f11fb7e1fcc8b37a449ae0f5"
+    },
+    {
+      "source": "<workspace>/telegram-bots/shared/supervisor.py",
+      "path": "telegram-bots/shared/supervisor.py",
+      "source_sha256": "f7d8eb0e0d2726d2182f65596a65e2003dc6ce57782e3536b1bbb9230f2d5ea7",
+      "export_sha256": "c58a006491e64501cdad16bf7e623700b31e40a012e12411b75762cbc2f08e6d"
+    },
+    {
+      "source": "<workspace>/telegram-bots/shared/telegram_runtime.py",
+      "path": "telegram-bots/shared/telegram_runtime.py",
+      "source_sha256": "a2722db853618d3dd4e8448b5fc5fe33e4c1b0c0578b6c0e839d9583b8fc9317",
+      "export_sha256": "a2722db853618d3dd4e8448b5fc5fe33e4c1b0c0578b6c0e839d9583b8fc9317"
+    },
+    {
+      "source": "<workspace>/telegram-bots/shared/telegram_sender.py",
+      "path": "telegram-bots/shared/telegram_sender.py",
+      "source_sha256": "b1241ae2645665678b6315d1b08fdecb040e9af67055784973c731e80f4ce68d",
+      "export_sha256": "b1241ae2645665678b6315d1b08fdecb040e9af67055784973c731e80f4ce68d"
+    },
+    {
+      "source": "<workspace>/telegram-bots/shared/terminal_usage.py",
+      "path": "telegram-bots/shared/terminal_usage.py",
+      "source_sha256": "ecc8929f104e32c3cc566d8dadbaba716f16830f07da4d68f8ab0ea1ae45c4d2",
+      "export_sha256": "ecc8929f104e32c3cc566d8dadbaba716f16830f07da4d68f8ab0ea1ae45c4d2"
+    },
+    {
+      "source": "<workspace>/telegram-bots/shared/token_guard.py",
+      "path": "telegram-bots/shared/token_guard.py",
+      "source_sha256": "3792467396fe361038b327720d9c9ca1c52ab6c76a9349e1c4fa4299196ff654",
+      "export_sha256": "3792467396fe361038b327720d9c9ca1c52ab6c76a9349e1c4fa4299196ff654"
+    },
+    {
+      "source": "<workspace>/telegram-bots/shared/token_usage.py",
+      "path": "telegram-bots/shared/token_usage.py",
+      "source_sha256": "384aace09c1ef81c00bc867812ea743b284412da3aa0a1120d330ec16c2018dd",
+      "export_sha256": "384aace09c1ef81c00bc867812ea743b284412da3aa0a1120d330ec16c2018dd"
+    },
+    {
+      "source": "<workspace>/telegram-bots/prompts/claude/system_prompt.md",
+      "path": "telegram-bots/prompts/claude/system_prompt.md",
+      "source_sha256": "f303959260049e9c00964e992267e3a415b10a3df9c0e0fa5ea9c4e4372a41b1",
+      "export_sha256": "1be1ba805224f13a5e47b2a3f0611e15c3ec878be558240440e1261117ee5646"
+    },
+    {
+      "source": "<workspace>/telegram-bots/prompts/codex/system_prompt.md",
+      "path": "telegram-bots/prompts/codex/system_prompt.md",
+      "source_sha256": "dc27f920fbdea7fff5ecf572e79a142337608be7a71cf1982d52fa9632c054b9",
+      "export_sha256": "e554984dff74910c3047669352007c6ec60d41800d0050f64f5b564c4903f025"
+    },
+    {
+      "source": "<workspace>/telegram-bots/prompts/grok/system_prompt.md",
+      "path": "telegram-bots/prompts/grok/system_prompt.md",
+      "source_sha256": "631716ad0a094a3e1e698f5b972f8bcbecbafae97e9d1ab250a74eb589dea50d",
+      "export_sha256": "56a29fb41aebbe427d395d0111ba63889c9de70ba7e9c1a5e072e9bd64ca9a32"
+    },
+    {
+      "source": "<workspace>/r2d2-agents/AGENTS.md",
+      "path": "r2d2-agents/AGENTS.md",
+      "source_sha256": "1aa6c9514ae801027755b50c58cdb89dcd4ddd6f1d1265e9ac340c67af057eec",
+      "export_sha256": "b1239414a484e0ed35b110c7f14e193c13f1463360053fb56902df1236e727ba"
+    },
+    {
+      "source": "<workspace>/telegram-bots/prompts/docs/agent_contract.md",
+      "path": "telegram-bots/prompts/docs/agent_contract.md",
+      "source_sha256": "1aa6c9514ae801027755b50c58cdb89dcd4ddd6f1d1265e9ac340c67af057eec",
+      "export_sha256": "04a9390504c4e3f3b1de7780101b5149e34cc8baa458f4d66ece49bb2ba5d404"
+    },
+    {
+      "source": "<workspace>/telegram-bots/prompts/docs/agent_projects_setup.md",
+      "path": "telegram-bots/prompts/docs/agent_projects_setup.md",
+      "source_sha256": "305e594b4f9577d6435fdb744f18622fa09301d8e231c8b4a0083d826a1e1383",
+      "export_sha256": "5f9d4f98b4c4ec9c5fc7f7452efe45a5168627fac78332578fc16d42839c1144"
+    },
+    {
+      "source": "<workspace>/telegram-bots/prompts/docs/project_observability.md",
+      "path": "telegram-bots/prompts/docs/project_observability.md",
+      "source_sha256": "36471c83d71b0e523f17b09812ddeda380b67ec36cf44f3b5aaa879b6460438c",
+      "export_sha256": "36471c83d71b0e523f17b09812ddeda380b67ec36cf44f3b5aaa879b6460438c"
+    },
+    {
+      "source": "<workspace>/telegram-bots/prompts/docs/telegram_runtime.md",
+      "path": "telegram-bots/prompts/docs/telegram_runtime.md",
+      "source_sha256": "295f3b4721beb3c9046622aec09e2cf104e8bf13a27d8fea883506bc45a01fd2",
+      "export_sha256": "295f3b4721beb3c9046622aec09e2cf104e8bf13a27d8fea883506bc45a01fd2"
+    },
+    {
+      "source": "<workspace>/telegram-bots/prompts/docs/grok_setup.md",
+      "path": "telegram-bots/prompts/docs/grok_setup.md",
+      "source_sha256": "27df03e8fd68449881da5500374ccced292a3cc180dfacb8ac40f4459fd85a41",
+      "export_sha256": "df9f62a03f47b1563235fccaaf38112efd6cae6530a3512aef3a65d1341ab9d7"
+    },
+    {
+      "source": "<workspace>/dashboard/agent_project_routes.py",
+      "path": "agent_project_routes.py",
+      "source_sha256": "3b30044aceeb7784ca3e87e4a66712b5af1292f2d142f923c5ad41c3da830607",
+      "export_sha256": "818391696ae37b3f7443079963a418dfd8a91bfb716cd6235d907b2d0bee9f6a"
+    }
+  ],
+  "adaptations": "Toolkit copies may adapt absolute paths or remove optional cross-repo notification dependencies; source and export hashes expose this.",
+  "privacy": "Export sanitized: credentials/private runtime state excluded; personal email, workstation paths and literal IP addresses removed."
+}
